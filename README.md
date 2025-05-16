@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/banner.jpg" alt="MrShadowRIFAT OneDrive" />
+  <img src="https://helpdesk.tfs.tamu.edu/images/onedrive-banner.jpg" alt="MrShadowRIFAT OneDrive" />
   <h3><a href="https://onedrive.rifat.website">MrShadowRIFAT's OneDrive Index</a></h3>
   <p><em>Fast. Clean. Curated downloads — powered by OneDrive & Next.js</em></p>
 
